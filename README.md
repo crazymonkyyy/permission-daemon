@@ -1,3 +1,7 @@
+## AI SLOP
+
+It fails to compile /shrug
+
 # Permission Daemon
 
 A daemon that prevents AI agents from deleting files using configurable rules based on glob patterns and user permissions.
