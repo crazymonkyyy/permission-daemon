@@ -1,0 +1,69 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+.vs/
+.vscode/
+*.userprefs
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE specific files
+.idea/
+*.sw?
+*.swp
+*.swn
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Testing
+tests/bin/
+tests/obj/
+test_proj/
+final_test/
+
+# Logs
+*.log
+
+# Configuration (if not intended to be committed)
+config.example.yaml
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Packages and dependencies
+packages/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Debug files
+debug.log
+DebugConfiguration.log
+
+# Local development files
+local.settings.json
+appsettings.Local.json
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.nupkg
+*.snupkg
